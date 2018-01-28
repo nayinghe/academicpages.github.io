@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. and MD in School of Medicine, Southeast University, 2011
+* B.S./MD in School of Medicine, Southeast University, 2011
 * M.S. in Ruijin Hospital, School of Medcine, Shanghai Jiao Tong University, 2014
 * Ph.D in Ruijin Hospital, School of Medcine, Shanghai Jiao Tong University, 2017
 * Visiting Student in Biomedical Engineering, Joint Georgia Tech & Emory University, 2015/10-2016/07
